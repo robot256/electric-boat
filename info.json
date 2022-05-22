@@ -1,0 +1,13 @@
+{
+  "name": "electric-boat",
+  "version": "0.0.1",
+  "title": "Electric Boat",
+  "author": "robot256",
+  "description": "Adds an Electric Boat to the Cargo Ships mod",
+  "dependencies": [
+    "base >= 1.1",
+    "cargo-ships >= 0.1.19",
+    "battery-powered"
+  ],
+  "factorio_version": "1.1"
+}
